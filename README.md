@@ -1,4 +1,5 @@
 # BD-Macropad
+https://github.com/NotBoodoo/BD-Macropad/blob/main/CAD/BD_MacroPad.png
 
 I wanted to create a macropad that has lot keys, as many as possible. I created a macropad using 12 switches, 1 rp2040, 1 rotary encoder, and 1 Oled 128x32 display.
 
@@ -26,4 +27,4 @@ Others:
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
-![image](https://github.com/NotBoodoo/BD-Macropad/blob/main/PCB/Schematic.png)    |  ![image](https://github.com/NotBoodoo/BD-Macropad/blob/main/PCB/PCB.png)  | ![image](https://github.com/NotBoodoo/BD-Macropad/blob/main/CAD/BD_MacroPad.png)
+![image](https://github.com/NotBoodoo/BD-Macropad/blob/main/PCB/Schematic.png)    |  ![image](https://github.com/NotBoodoo/BD-Macropad/blob/main/PCB/PCB.png)  | ![image](https://github.com/NotBoodoo/BD-Macropad/blob/main/CAD/Case.png)
