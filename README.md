@@ -4,7 +4,7 @@ I wanted to create a macropad that has lot keys, as many as possible. I created 
 
 ### Challenges
 
-I used QMK firware. Firmware was the hardest part. I was constantly having errors while compiling. But after few days of trying i barely managed to compile. But i don't even know it will work or not.
+I used QMK firmware. Firmware was the hardest part. I was constantly having errors while compiling. But after few days of trying i barely managed to compile. But i don't even know it will work or not.
  
 ### Specifications
 
